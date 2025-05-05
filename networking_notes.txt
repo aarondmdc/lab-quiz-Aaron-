@@ -1,0 +1,6 @@
+- IP addressconflict
+- DNS resolution failure
+- Slow internet connection
+- Unstable WI-Fi signal
+- Network congestion
+
